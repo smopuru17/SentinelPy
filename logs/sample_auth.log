@@ -1,0 +1,8 @@
+2026-10-13T10:00:00 Failed password for root from 192.0.2.10
+2026-10-13T10:00:10 Failed password for admin from 192.0.2.10
+2026-10-13T10:00:20 Failed password for root from 192.0.2.10
+2026-10-13T10:00:30 Failed password for admin from 192.0.2.10
+2026-10-13T10:00:40 Failed password for root from 192.0.2.10
+2026-10-13T10:01:00 Accepted password for admin from 192.0.2.10
+2026-10-13T10:05:00 Accepted password for student from 192.0.2.20
+2026-10-13T10:06:00 Failed password for guest from 192.0.2.30
